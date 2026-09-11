@@ -4,7 +4,7 @@ Explore the full project 🚀
 ### Download conference poster
 Thank you for viewing our conference poster at the RDKit UGM 2026! 
 
-You can download a [PDF version] here. TODO
+Click to download the [PDF version](https://junkha.github.io/active-learning-poster-resources/supplementary%20material/Poster_ActiveLearning.pdf) of the poster. 
 
 ### Current work
 Current work at Bayer explores how uncertainty-aware machine learning can be integrated into real-world discovery workflows. 

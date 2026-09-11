@@ -20,7 +20,7 @@ This poster is based on the Master's thesis of Hanna Junk (University of Augsbur
 
 Thanks to all contributing supervisors!
 
-You can access the thesis PDF [here](.supplementary%20material/Thesis_ActiveLearning.pdf).
+You can access the thesis PDF [here](https://junkha.github.io/active-learning-poster-resources/supplementary%20material/Thesis_ActiveLearning.pdf).
 
 ### Stay in touch!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanna-junk-2763b0323)
